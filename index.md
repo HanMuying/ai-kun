@@ -1,5 +1,4 @@
 #muy.github.io
-<!--Copied by Bazhan.Wang,Modify by RuoYu(github.com/lyryblog)-->
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="">
