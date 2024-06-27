@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!--Copied by Bazhan.Wang,Modify by RuoYu(github.com/lyryblog)-->
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -111,15 +110,6 @@
                 <li m="春节鸡">春节鸡</li>
                 <li m="圣诞鸡">圣诞鸡</li>
             </ul>
-            <div class="help">
-            <div class="title">使用帮助</div>
-                <ul>
-                    <li>音频来自网络，未经原作者授权请勿商用。</li>
-                    <li>代码已在Github开源，<a href="https://github.com/lyryblog/ikun-home">点我跳转</a></li>
-                    <li>点击按钮就会发出只因声。</li>
-                    <li>喜欢的话可以分享给身边的ikun！</li>
-                </ul>
-            </div>
         </div>
     </div>
     <audio id="audio" src="media/j.mp3" ontrolslist="nodownload" οncοntextmenu="return false" preload="auto"></audio>
